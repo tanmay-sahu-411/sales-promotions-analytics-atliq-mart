@@ -143,6 +143,14 @@ Understand category and product-level performance.
 
 ---
 
+## 🔗 Related Conceptual Analysis
+
+This project is supported by a foundational analysis of promotion KPIs and business concepts:
+
+👉 https://github.com/tanmay-sahu-411/sales-promotion-analysis
+
+---
+
 ## ✅ Project Status
 Completed and portfolio-ready.  
 Designed to reflect real-world business analytics and decision-making.
